@@ -15,4 +15,4 @@ Solução serverless desenvolvida para unificar os canais de atendimento da "Ame
 - **Proteção de Interface:** Bloqueio de ferramentas de programador (F12, Context Menu) para evitar interações não planeadas por parte do utilizador final.
 - **Design Sustentável:** Animações CSS personalizadas (`@keyframes`) integradas ao utilitário Tailwind para feedback visual imediato.
 
-🔗 **[Aceder ao Projeto em Produção](https://SEU-LINK-DO-NETLIFY.netlify.app/)**
+🔗 **[Acessar ao Projeto em Produção](https://ameisalgados-links.netlify.app/)**
